@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Job Hiring at Yommy Restaurant </title>
+<style>
+  body {
+    font-family: Arial, sans-serif;
+    background-color: #313030;
+    margin: 0;
+    padding: 0;
+  }
+  .container {
+    max-width: 600px;
+    margin: 50px auto;
+    background-color: #5cebcc;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+  }
+  h1 {
+    color: #333;
+    text-align: center;
+  }
+  p {
+    color: #666;
+    text-align: center;
+    font-size: 18px;
+  }
+  .btn {
+    display: inline-block;
+    background-color: #c33a4c;
+    color: #0e0101;
+    padding: 10px 20px;
+    text-decoration: none;
+    border-radius: 5px;
+    transition: background-color 0.3s ease;
+  }
+  .btn:hover {
+    background-color: #ff6347;
+  }
+</style>
+</head>
+<body>
+
+<div class="container">
+  <h1>Join Our Team!</h1>
+  <p>We are hiring passionate individuals to join our team at Yommy Restaurant .</p>
+  <p>If you have a love for food and excellent customer service skills, we want to hear from you!</p>
+  <p>Positions Available:</p>
+  <ul>
+    <li>Server</li>
+    <li>Chef</li>
+    <li>Line Cook</li>
+    <li>Host/Hostess</li>
+    <li>Dishwasher</li>
+  </ul>
+  <p>Interested candidates, please click below to apply:</p>
+  <a href="[Your Application Link]" class="btn">Apply Now</a>
+</div>
+
+</body>
+</html>
