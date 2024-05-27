@@ -8,12 +8,12 @@
   body {
     font-family: Arial, sans-serif;
     background-color: #313030;
-    margin: 0;
+    margin: 10;
     padding: 0;
   }
   .container {
-    max-width: 600px;
-    margin: 50px auto;
+    max-width: 650px;
+    margin: 40px auto;
     background-color: #5cebcc;
     padding: 20px;
     border-radius: 10px;
@@ -26,16 +26,16 @@
   p {
     color: #666;
     text-align: center;
-    font-size: 18px;
+    font-size: 19px;
   }
   .btn {
     display: inline-block;
     background-color: #c33a4c;
     color: #0e0101;
-    padding: 10px 20px;
+    padding: 11px 22px;
     text-decoration: none;
-    border-radius: 5px;
-    transition: background-color 0.3s ease;
+    border-radius: 6px;
+    transition: background-color 0.5s ease;
   }
   .btn:hover {
     background-color: #ff6347;
@@ -46,8 +46,8 @@
 
 <div class="container">
   <h1>Join Our Team!</h1>
-  <p>We are hiring passionate individuals to join our team at Yommy Restaurant .</p>
-  <p>If you have a love for food and excellent customer service skills, we want to hear from you!</p>
+  <p>We are hiring passionate individuals from the city to join our team at Yommy Restaurant .</p>
+  <p>If you have a love and excitment for food and excellent customer service skills, we want to hear from you!</p>
   <p>Positions Available:</p>
   <ul>
     <li>Server</li>
