@@ -12,10 +12,10 @@
     padding: 0;
   }
   .container {
-    max-width: 650px;
-    margin: 40px auto;
+    max-width: 660px;
+    margin: 54px auto;
     background-color: #5cebcc;
-    padding: 20px;
+    padding: 30px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
@@ -26,7 +26,7 @@
   p {
     color: #666;
     text-align: center;
-    font-size: 19px;
+    font-size: 18px;
   }
   .btn {
     display: inline-block;
@@ -34,7 +34,7 @@
     color: #0e0101;
     padding: 11px 22px;
     text-decoration: none;
-    border-radius: 6px;
+    border-radius: 27px;
     transition: background-color 0.5s ease;
   }
   .btn:hover {
@@ -55,7 +55,10 @@
     <li>Line Cook</li>
     <li>Host/Hostess</li>
     <li>Dishwasher</li>
-<li>Dishwasher</li>
+<li>planer</li>
+<li>planer</li>
+<li>planer</li>
+<li>planer</li>
   </ul>
   <p>Interested candidates, please click below to apply:</p>
   <a href="[Your Application Link]" class="btn">Apply Now</a>
