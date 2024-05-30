@@ -15,7 +15,7 @@
     max-width: 660px;
     margin: 54px auto;
     background-color: #5cebcc;
-    padding: 30px;
+    padding: 40px;
     border-radius: 10px;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
   }
@@ -26,16 +26,16 @@
   p {
     color: #666;
     text-align: center;
-    font-size: 18px;
+    font-size: 10px;
   }
   .btn {
     display: inline-block;
     background-color: #c33a4c;
     color: #0e0101;
-    padding: 11px 22px;
+    padding: 15px 25px;
     text-decoration: none;
-    border-radius: 27px;
-    transition: background-color 0.5s ease;
+    border-radius: 26px;
+    transition: background-color 0.6s ease;
   }
   .btn:hover {
     background-color: #ff6347;
